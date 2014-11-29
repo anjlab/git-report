@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var parseArgs = require('../lib/parser');
+var report = require('../lib/report')
+
+report();

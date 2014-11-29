@@ -1,0 +1,28 @@
+{
+  "name": "git-report",
+  "version": "1.0.0",
+  "description": "command line tool for tracking time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjlab/git-report.git"
+  },
+  "keywords": [
+    "github",
+    "time",
+    "tracking"
+  ],
+  "author": "Nick Zhebrun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjlab/git-report/issues"
+  },
+  "homepage": "https://github.com/anjlab/git-report",
+  "dependencies": {
+    "bossy": "^1.0.2",
+    "shelljs": "^0.3.0"
+  }
+}
